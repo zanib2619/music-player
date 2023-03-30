@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['295'];
+const songs = ['295' , 'Kahani Suno 2.0-(PagalWorld.Ink) (1)'];
 
 // Keep track of song
 let songIndex = 2;
